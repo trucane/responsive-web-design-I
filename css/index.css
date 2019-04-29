@@ -168,7 +168,7 @@ button{
 
 
 /* for tablet */
-@media(max-width:900px){
+@media(max-width:800px){
     header{
         flex-wrap:wrap;
         margin-top:20px;
@@ -223,7 +223,7 @@ button{
 
 /* for mobile */
 
-@media(max-width:600px){
+@media(max-width:500px){
     .container{
         width:100%;
     }
